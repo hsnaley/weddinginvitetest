@@ -1,0 +1,11 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# deps (none needed for this static site)
+node_modules/
+
+# local/working artifacts
+*.tmp
+scratch*
